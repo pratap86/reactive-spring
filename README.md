@@ -1,2 +1,30 @@
 # Reactive-Spring
 This repository has the code to implement the reactive programming with spring
+
+#### Usefull links
+|urls||
+|---|---|
+|`https://projectreactor.io/docs`|Documentation|
+
+#### Reactive Libraries
+  - What is a Reactive Library?
+    - Implementation of Reactive Stream Specification.
+      - Publisher
+      - Subscriber
+      - Subscription
+      - Processor
+    - Reactive Library present today are;
+      - RxJava
+      - Reactor
+      - Flow Class - JDK 9
+
+#### Reactor or Project Reactor
+  - Built and maintained by Pivotal
+  - Recommended Library to work with Spring Boot.
+
+#### Project Reactor Modules
+|Modules|Description|
+|---|---|
+|`Reactor Core`|A Reactive Streams foundation for Java 8|
+|`Reactor Test`|Test utilities|
+|`Reactor Netty`|HTTP, TCP, UDP Clients/Servers using Netty|
