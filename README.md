@@ -33,3 +33,8 @@ This repository has the code to implement the reactive programming with spring
 - What is Back Pressure in reactive data stream?
   - Subscriber controls the data flow from the Publisher
   - Subscriber just made the request to Publisher to just send only requested items only
+
+#### Spring Reactive Annotations
+|`Annotations`|Description|
+|---|---|
+|`@WebFluxTest`|is responsible to create the instance of WebTestClient|
