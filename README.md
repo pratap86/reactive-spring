@@ -28,3 +28,8 @@ This repository has the code to implement the reactive programming with spring
 |`Reactor Core`|A Reactive Streams foundation for Java 8|
 |`Reactor Test`|Test utilities|
 |`Reactor Netty`|HTTP, TCP, UDP Clients/Servers using Netty|
+
+#### Back Pressure
+- What is Back Pressure in reactive data stream?
+  - Subscriber controls the data flow from the Publisher
+  - Subscriber just made the request to Publisher to just send only requested items only
