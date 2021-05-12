@@ -40,4 +40,4 @@ This repository has the code to implement the reactive programming with spring
 |`@WebFluxTest`|is responsible to create the instance of WebTestClient|
 #### Netty
 - A non-blocking server
-- An asynchronous event-driven application application framework for rapid development of maintainable high performance protocol servers & clients.
+- An asynchronous event-driven application framework for rapid development of maintainable high performance protocol servers & clients.
